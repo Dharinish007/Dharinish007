@@ -1,244 +1,195 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a4e,60:302b63,100:24243e&height=200&section=header&text=Dharinish%20Arulselvam&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20DSA%20%C2%B7%20Spring%20Boot%20%C2%B7%20AI%20Systems&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0221,40:1a0533,70:2d1155,100:0d0221&height=200&section=header&text=Dharinish%20Arulselvam&fontSize=45&fontColor=e0aaff&fontAlignY=45&desc=Backend%20Engineer%20%E2%80%A2%20DSA%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Google%20STEP%20Target&descSize=14&descAlignY=68&animation=fadeIn&stroke=c77dff&strokeWidth=2" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=7C83FD&center=true&vCenter=true&multiline=false&width=600&lines=274+LeetCode+problems+solved+%F0%9F%A7%A0;Building+production-grade+Java+systems+%E2%9A%99%EF%B8%8F;Targeting+FAANG+%7C+Google+STEP+2025+%F0%9F%8E%AF;Backend+%7C+DSA+%7C+AI+Projects+%F0%9F%9A%80;Depth+over+shortcuts.+Always.+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=900&color=C77DFF&center=true&vCenter=true&width=600&lines=274%2B+LeetCode+Problems+%F0%9F%A7%A0+%7C+Contest+Rating+1454;Spring+Boot+%2B+System+Design+%E2%9A%99%EF%B8%8F;Building+Production+Apps+Independently+%F0%9F%9A%80;Depth+over+shortcuts.+Always.+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharinish-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharinish776)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharinish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharinish776)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Dharinish__2007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dharinish_2007)
-[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharinisharulselvam@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dharinish007&style=for-the-badge&color=7c83fd&label=PROFILE+VIEWS)](https://github.com/Dharinish007)
+[![Gmail](https://img.shields.io/badge/Gmail-dharinisharulselvam-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharinisharulselvam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Dharinish007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharinish007)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dharinish007&style=for-the-badge&color=7b2d8b&label=PROFILE+VIEWS)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Dharinish007.Dharinish007&style=for-the-badge&color=9d4edd)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ⚡ About Me
+## ⚡ Who Am I
 
 ```java
 public class Dharinish {
 
-    String[] currentFocus  = {"DSA", "Spring Boot", "System Design"};
-    String   target        = "Google STEP Internship 2025";
-    String   philosophy    = "Depth over shortcuts. Always.";
-    int      leetcodeSolved = 274;
-    int      contestRating  = 1454;
-    String   location      = "Tamil Nadu, India 🇮🇳";
+    String   role        = "Software Engineer | Backend + DSA";
+    String   target      = "Google STEP Internship 2026";
+    String[] stack       = { "Java", "Spring Boot", "System Design", "DSA" };
+    String   location    = "Tamil Nadu, India 🇮🇳";
+    int      lcSolved    = 274;      // and counting
+    int      lcRating    = 1454;     // actively improving → 1700+
 
-    String getMotivation() {
+    String philosophy() {
         return "I don't chase trends. I build fundamentals strong enough to outlast them.";
     }
 }
 ```
 
-- 🔭 Deep-diving into **Spring Boot** + **System Design**
-- 🧠 Solving DSA with focus on **patterns**, not memorization
-- 🎯 Interview target: **Google STEP Internship**
-- 🛠️ Building full-stack applications **independently from scratch**
-- 📍 Tamil Nadu, India
-
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" />
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark)](https://skillicons.dev)
 
-</div>
+### Frameworks & Backend
+[![My Skills](https://skillicons.dev/icons?i=spring,flask,react,maven&theme=dark)](https://skillicons.dev)
 
-### ⚙️ Frameworks & Backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,react,maven&theme=dark" />
-
-</div>
-
-### 🗄️ Databases & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode,idea&theme=dark" />
-
-</div>
-
-### 🧠 Core Competencies
-
-<div align="center">
-
-![Data Structures](https://img.shields.io/badge/Data_Structures-7C83FD?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-7C83FD?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-7C83FD?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-7C83FD?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design_(Learning)-302b63?style=for-the-badge)
+### Databases & Tools
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode,idea&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🤖 AI Resume Analyzer
+> *NLP-powered resume evaluation — built for real recruiter use*
 
-<a href="https://github.com/Dharinish007">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dharinish007&repo=AI-Resume-Analyzer&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Dharinish007">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dharinish007&repo=Thirukkural-App&theme=tokyonight&hide_border=true" />
-</a>
+Parses resumes against job descriptions, extracts skill matches, and returns structured AI-scored feedback. Reduces manual screening time.
+
+```
+Upload PDF → NLP Extraction → AI Scoring Engine → JSON Feedback → UI Display
+```
+
+<div>
+
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+[![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<br/>
-
-### 🤖 AI Resume Analyzer
-> *Intelligent resume evaluation powered by NLP and AI scoring*
-
-A web application that analyzes uploaded resumes against job descriptions, extracts key skills, and provides structured feedback — reducing screening time for recruiters and giving candidates actionable improvement insights.
-
-```
-Client Request → REST API → NLP Pipeline → AI Scoring → Structured JSON Response
-```
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NLP](https://img.shields.io/badge/NLP-7C83FD?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square)
-
-[![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/Dharinish007)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharinish007/AI-Resume-Analyzer)
 
 ---
 
 ### 📖 Thirukkural App
-> *A modern interface for one of Tamil literature's greatest works*
+> *Ancient Tamil wisdom. Modern digital experience.*
 
-A clean, searchable app making the ancient Tamil classic accessible digitally — with couplets, translations, and explanations organized with modern UX principles and cultural respect.
+Searchable interface for the 2000-year-old Thirukkural — couplets, meanings, and translations with clean UX.
 
 ```
-User Query → Search Engine → JSON Data Layer → Component UI → Rendered Result
+User Query → Search Engine → JSON Layer → React UI → Rendered Result
 ```
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/Dharinish007)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
+
+</div>
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharinish007/Thirukkural-App)
 
 ---
 
 ### 🧵 Tailoring Business Website
-> *Professional web presence for a local business — real deployment, real impact*
+> *Real deployment. Real client. Real impact.*
 
-A fully responsive business website with service listings, order inquiry forms, and portfolio sections — helping a local business establish digital credibility and receive customer inquiries online.
+Responsive multi-page site with service listings and inquiry forms — helped a local business get online and receive digital leads.
 
-```
-Static Multi-Page Site → Form Handling → Mobile-First Responsive Layout
-```
+<div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/Dharinish007)
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 LeetCode Performance
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Dharinish_2007?theme=dark&font=JetBrains+Mono&ext=contest&border=0)](https://leetcode.com/u/Dharinish_2007)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)](https://skillicons.dev)
 
 </div>
 
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharinish007/Tailoring-Website)
+
+---
+
+## 🔧 Currently Building
+
+> 🚧 **Full-Stack Production App** — Independent build · Zero tutorials · Real deployment · April 2026
+
+---
+
+## 📊 LeetCode
+
 <div align="center">
 
-| 🧩 Solved | 🏆 Contest Rating | 🔥 50-Day Badge | 📅 DCC Badge |
-|:---------:|:-----------------:|:---------------:|:------------:|
-| **274** | **1,454** | **2025 ✅** | **Earned ✅** |
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Dharinish_2007?theme=dark&font=Fira+Code&ext=contest&border=0)](https://leetcode.com/u/Dharinish_2007)
+
+| 🧩 Solved | 🏆 Contest Rating | 🎯 Target Rating | 🔥 50-Day Badge |
+|:---------:|:-----------------:|:----------------:|:---------------:|
+| **274+** | **1,454** | **1,700+** | **2025 ✅** |
 
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharinish007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharinish007&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dharinish007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&icon_color=c77dff&title_color=e0aaff&text_color=ffffff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharinish007&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=e0aaff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dharinish007&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dharinish007&theme=tokyonight&hide_border=true&ring=c77dff&fire=e0aaff&currStreakLabel=c77dff&card_width=600)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharinish007&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Dharinish007)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharinish007&theme=tokyo-night&hide_border=true&area=true&area_color=9d4edd&line=c77dff&point=e0aaff)](https://github.com/Dharinish007)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🗺️ 2025 Roadmap
+## 🗺️ 2026 Roadmap
 
 ```
-DSA Mastery (Graphs, DP, Trees)     ████████████████████ 100%  ✅
-Spring Boot + REST APIs             ████████████░░░░░░░░  60%  🔄
-System Design Fundamentals          ████████░░░░░░░░░░░░  40%  🔄
-Google STEP Interview Prep          ████░░░░░░░░░░░░░░░░  20%  ⏳
-Full-Stack Production App           ██░░░░░░░░░░░░░░░░░░  10%  ⏳
+Spring Boot + REST APIs             ████████████████░░░░  80%  🔄
+System Design Fundamentals          ████████████░░░░░░░░  60%  🔄
+LeetCode Rating → 1700+             ████████░░░░░░░░░░░░  40%  ⏳
+Google STEP Interview Prep          ██████░░░░░░░░░░░░░░  30%  ⏳
+Full-Stack Production App Live      ████░░░░░░░░░░░░░░░░  20%  🚧
 ```
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤝 Open To
+
+> 💼 **DSA discussions** · **Backend architecture** · **Project collabs** · **Internship opportunities**
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dharinish007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/Dharinish007)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🤝 Let's Connect
-
-> I'm open to discussing **DSA approaches**, **backend architecture**, **project collabs**, or **internship opportunities**.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharinish776)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharinisharulselvam@gmail.com)
-[![LeetCode](https://img.shields.io/badge/See_My_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dharinish_2007)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharinish776)
+[![LeetCode](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dharinish_2007)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharinisharulselvam@gmail.com)
 
 </div>
 
@@ -246,6 +197,6 @@ Full-Stack Production App           ██░░░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Systems%20thinking.%20One%20commit%20at%20a%20time.&fontSize=14&fontColor=9d9fda&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:0d0221&height=110&section=footer&text=Systems+thinking.+One+commit+at+a+time.&fontSize=14&fontColor=c77dff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
